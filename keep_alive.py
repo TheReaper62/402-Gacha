@@ -14,6 +14,7 @@ def home():
               <h1>Bot Status</h1>\
               <hr>\
               <p>402 Gacha Online</p>\
+              Version Alpha Build 1.0.1\
             </body>"
   return string
 

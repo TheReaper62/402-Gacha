@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "gacha-discord",
+  "private_key_id": "f5fd4e3661d5cd30ecdd6ff7d0389dc58e1a8dce",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCWp/5x1i6j8i8Y\nzLpiZGGsjSlDynCuKXIhL2RoLPScT0cTw9pkCzHKpp/JS3ESMtYRL1iGKDZnorN7\nyWqa/axKC8tGqo2KSHY1+aX1TqOjocZruTQA0vjsCVbkR6qFUWeBHqRBcCkQp6x5\nAgz7Ri5lklStd31S2YNa1xJ3n0HeRuGoDLOrHQKm9IsHTMyc5Ug6RwqgTaD+OVdQ\ntdvHHRRyrER3gQqupeqFp2O3KPgZJ4StsGv/6L+DEQuAFIR6IcRTltiFvM82gsxQ\nKpUuIS36a66L+bli176qPiKhQGox/3YiXlOPSlKWDcemMIAy1xol9c/u67S8rNOm\nrDTHx6tdAgMBAAECggEAC7eLEX1v6S5HvW0GvepCsnHUGMKg2tq8Vpph+7wrVhDQ\nXVgpHwjD2Zf162jjpV+wyGtfPifYe1zrCqCSmvVJtgSOzbMsCOozz2TYJGj2Tx6g\n2PXxdnLyCyF60YxFVdML8r3YVoKLnxD7V/nx2oUNzLaBwW/+njfugF0jwYvwSoIo\nMLGVeeuPDppFnT+g0GcordWKsdQmC5ip6x5GpvriUI8bOHhph946plXTBWAMxYVS\n2jdDU6nSV1XDjs89oVNI4ICDTEfNT0Rv0bLMGFdCSavB/cwuAuBnp2UxMrvhjMaO\ngoUFAm/yUlpep8yFbBmctew02f4rt5Mb1icxPPmtQQKBgQDKmsBY5mxxHDjMyFMt\numlk9GcTcueTwwvZlsaxFcFxZsjGpruN0vUf9Aljkf3+p1zj48kK9Gh/jPFzHkjl\n+lmvG+egw62jDSGadbkq5xcqseWHj8VWWr3OSpZptKUcdIc0bFm2Jpdw9a2ivz0y\nn3dBZFD+LHRodLWWAYQP6IGHrQKBgQC+XGo68z9CutU/MwJbVGWiOypsb4Dg5Q4s\nuSvM9Xy4hVAj+668R2/F+E4GAvXtw3Qe7aieucbEMpb8p140pTQ1X2SxajWqecDe\nxfhhu3G/VOCTS0BMx2PLUTKqts+f4FIr2+lqjsWgq3DRkcJFjwDHc7Kki+t8AhxW\nPhemfv7ocQKBgDQqSCAbpAwzggRoB9KcToqpyuhdC3cmHyT1B0+NFHOITWWohF3t\n1SNXCBvU+RraKLacbaUebNF6jqhfQdHE9dZ6Ttc7yrdSqDZG3VhIi9R4XWrb/6lO\nT9SPq86nrmN3NWCwDSEzKobxGrXum2kvWdtCYwAungJPGnn3BfO6n685AoGAX+EK\nPHDiLwkNeUyG5ltG6YRlZMJwplWYYxxNHGmVDRdQex88LmbIvGzJV6vMFJp6dU18\nvZ2SqKVWeSEPiPKgrjVC8T0ulJPIeiw6Y3dW3miwyF+BnmpbMD/Qhj2Xq83/dUnJ\ncjtA/SD8rQF+WSyi1tLGaqxyyj4B6cpSfTC/0XECgYEAjykPqIOL1rQTUnYjiOJa\nHT1oKTcfVEMVk3yWoF6hbZs38LBuNcpxSh7LEURPmyZWSY3mRVT1d2p/f8AQhtRI\n8bvrPBbANhOm+0HhUtpXnaOhtOMQ9zdz0UWAC9wI7GVUcu0bKaYqG+8iUnzp87uX\n9U8ZS60M1E6Lefd9LdKpihc=\n-----END PRIVATE KEY-----\n",
+  "client_email": "id-02gacha@gacha-discord.iam.gserviceaccount.com",
+  "client_id": "116837493661466884204",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/id-02gacha%40gacha-discord.iam.gserviceaccount.com"
+}
