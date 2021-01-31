@@ -76,3 +76,8 @@ Version Alpha Build 1.0.1
 31 January 2021
 Joel Khor
 ```
+```
++ Joel Khor - 31/1/2021
+  1. Increased Security of Code on GitHub
+    - Special Method to get Keys without showing on Github
+```

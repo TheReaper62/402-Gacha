@@ -1,9 +1,10 @@
-import discord, os, asyncio, datetime, pytz,gspread
+import discord, os, asyncio, datetime, pytz,gspread,time
 from discord.ext import commands
 from keep_alive import keep_alive
 from random import choice, randint
 from replit import db
 from oauth2client.service_account import ServiceAccountCredentials as sac
+from authorize import sudo
 
 print("Loading...")
 client = commands.Bot(command_prefix="$")
@@ -23,11 +24,13 @@ async def on_ready():
     'https://spreadsheets.google.com/feeds',
     'https://www.googleapis.com/auth/drive'
   ]
-  creds = sac.from_json_keyfile_name('Gacha Discord Key.json', scope)
+  sudo("key.json")
+  creds = sac.from_json_keyfile_name("key.json", scope)
   google_client = gspread.authorize(creds)
+  os.remove("key.json")
   # Open Spreadsheets Here
-  sheet = google_client.open("Loot Tables").sheet1
-	print("Online")
+  #sheet = google_client.open("Loot Tables").sheet1
+  print("Online")
 
 
 async def change_p():
