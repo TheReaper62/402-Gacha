@@ -81,3 +81,30 @@ Joel Khor
   1. Increased Security of Code on GitHub
     - Special Method to get Keys without showing on Github
 ```
+```
++ Joel Khor - 9/2/2021
+  1. Added testme Command
+  2. Added testme command to help command
+```
+```
++ Joel Khor - 6/3/2021
+  1. Added extra Checks for Admin Commands
+  2. Added support|suggest command for development of Loot Tables
+  3. Added prefix command - change server prefix
+  4. Changed testme to testmelegacy
+  5. Changed help command and other prompts to adjust to custom prefix
+  6. Changed Help Command accrdingly to new commands
+```
+```
++ Joel Khor - 7/3/2021
+  1. Made Roulette Command
+  2. Added Roulette Command to Help
+```
+```
++ Joel Khor - 9/3/2021
+  1. Fixed bugs in Roulette and temporarily removed "dozen_grp" property
+```
+```
++ Joel Khor - 4/5/2021
+  1. Permanantly Removed testmelegacy moving to Define
+```
